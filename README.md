@@ -9,13 +9,15 @@
     <img src="https://img.shields.io/badge/trybadisch-thm?style=for-the-badge&logo=tryhackme&color=%231c2331" />
   </a>
   <br /><br />
-  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000" />
-  <img src="https://img.shields.io/badge/C-00599C?logo=c&logoColor=white" />
-  <img src="https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=fff" />
-  <img src="https://custom-icon-badges.demolab.com/badge/AWS-%23FF9900.svg?logo=aws&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/Zsh-F15A24?logo=zsh&logoColor=fff" />
+  <a href="#" >
+    <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff" />
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000" />
+    <img src="https://img.shields.io/badge/C-00599C?logo=c&logoColor=white" />
+    <img src="https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=fff" />
+    <img src="https://custom-icon-badges.demolab.com/badge/AWS-%23FF9900.svg?logo=aws&logoColor=white" />
+    <img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black" />
+    <img src="https://img.shields.io/badge/Zsh-F15A24?logo=zsh&logoColor=fff" />
+  </a>
 </p>
 
 ## Projects
