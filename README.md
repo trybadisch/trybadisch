@@ -18,7 +18,10 @@
     <img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black" />
     <img src="https://img.shields.io/badge/Zsh-F15A24?logo=zsh&logoColor=fff" />
   </a>
-</p>
+  <br /><br />
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=trybadisch&layout=compact&theme=dracula&bg_color=00000000&langs_count=5" />
+  </a>
 
 ## Projects
 Browser Extensions:
