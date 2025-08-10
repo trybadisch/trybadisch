@@ -16,7 +16,7 @@ Browser Extensions:
 - [WebM-Remuxer](https://github.com/trybadisch/WebM-Remuxer): Firefox extension to recontainerize HackerOne WebM files to restore duration and playback controls
 
 Netsec Parsers:
-- [Cortex-Parser](https://github.com/trybadisch/Cortex-Parser): (Legacy) Post-exploitation tool that gathers Cortex XDR configuration aiming to find potential exclusions for further execution
+- [Cortex-Parser](https://github.com/trybadisch/Cortex-Parser): (Legacy) Post-exploitation tool that gathers Cortex XDR configuration aiming to find potential exclusions
 - [NTLMv2-Extractor](https://github.com/trybadisch/NTLMv2-Extractor): Tool to extract NTLMv2 hashes from PCAP files in hashcat format using pyshark
 - [Gophish-Parser](https://github.com/trybadisch/Gophish-Parser): Script to parse Gophish campaign results by position and filter false positive clicks
 - [SBOM-Hashes](https://github.com/trybadisch/SBOM-Hashes): Script to find public package hashes from Checkmarx SBOM export
