@@ -9,9 +9,13 @@
     <img src="https://img.shields.io/badge/trybadisch-thm?style=for-the-badge&logo=tryhackme&color=%231c2331" />
   </a>
   <br /><br />
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,js,c,bash,aws,kali" />
-  </a>
+  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000" />
+  <img src="https://img.shields.io/badge/C-00599C?logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=fff" />
+  <img src="https://custom-icon-badges.demolab.com/badge/AWS-%23FF9900.svg?logo=aws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Zsh-F15A24?logo=zsh&logoColor=fff" />
 </p>
 
 ## Projects
