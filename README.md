@@ -27,6 +27,7 @@
 ## Projects
 Browser Extensions:
 - [WebM-Remuxer](https://github.com/trybadisch/WebM-Remuxer): Firefox extension to recontainerize HackerOne WebM files to restore duration and playback controls
+- [PwnFox Fork](https://github.com/trybadisch/PwnFox): Enable custom container names instead of `PwnFox-color`
 
 Netsec Parsers:
 - [Cortex-Parser](https://github.com/trybadisch/Cortex-Parser): (Legacy) Post-exploitation tool that gathers Cortex XDR configuration aiming to find potential exclusions
