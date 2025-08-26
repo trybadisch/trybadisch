@@ -27,6 +27,7 @@
 ## Projects
 Browser Extensions:
 - [WebM-Remuxer](https://github.com/trybadisch/WebM-Remuxer): Firefox extension to recontainerize HackerOne WebM files to restore duration and playback controls
+- [Report-Scraper](https://github.com/trybadisch/Report-Scraper): Firefox extension to scrape summaries of introduced HackerOne reports including status, last action, and last message
 - [PwnFox Fork](https://github.com/trybadisch/PwnFox): Enable custom container names instead of `PwnFox-color`
 
 Netsec Parsers:
