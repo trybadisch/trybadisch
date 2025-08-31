@@ -25,12 +25,14 @@
 </p>
 
 ## Projects
-Browser Extensions:
+### Browser Extensions
+#### HackerOne
 - [WebM-Remuxer](https://github.com/trybadisch/WebM-Remuxer) <img alt="Firefox" src="https://upload.wikimedia.org/wikipedia/commons/a/a0/Firefox_logo%2C_2019.svg" height="15"> : Extension to recontainerize HackerOne WebM files to restore duration and playback controls
 - [Report-Scraper](https://github.com/trybadisch/Report-Scraper) <img alt="Firefox" src="https://upload.wikimedia.org/wikipedia/commons/a/a0/Firefox_logo%2C_2019.svg" height="15"><img alt="Chrome" src="https://upload.wikimedia.org/wikipedia/commons/e/e1/Google_Chrome_icon_%28February_2022%29.svg" height="15"> : Extension to scrape summaries of HackerOne reports including status, last action, and last message
+#### Other
 - [PwnFox Fork](https://github.com/trybadisch/PwnFox) <img alt="Firefox" src="https://upload.wikimedia.org/wikipedia/commons/a/a0/Firefox_logo%2C_2019.svg" height="15"> : Enable custom container names instead of `PwnFox-color`
 
-Netsec Parsers:
+### Netsec Parsers:
 - [Cortex-Parser](https://github.com/trybadisch/Cortex-Parser): (Legacy) Post-exploitation tool that gathers Cortex XDR configuration aiming to find potential exclusions
 - [NTLMv2-Extractor](https://github.com/trybadisch/NTLMv2-Extractor): Tool to extract NTLMv2 hashes from PCAP files in hashcat format using pyshark
 - [Gophish-Parser](https://github.com/trybadisch/Gophish-Parser): Script to parse Gophish campaign results by position and filter false positive clicks
