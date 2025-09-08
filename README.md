@@ -36,6 +36,6 @@
 - [Gophish-Parser](https://github.com/trybadisch/Gophish-Parser): Script to parse Gophish campaign results by position and filter false positive clicks
 - [SBOM-Hashes](https://github.com/trybadisch/SBOM-Hashes): Script to find public package hashes from Checkmarx SBOM export
 
-### Forks:
-- [PwnFox Fork](https://github.com/trybadisch/PwnFox) <img alt="Firefox" src="https://upload.wikimedia.org/wikipedia/commons/a/a0/Firefox_logo%2C_2019.svg" height="15"> : Enable custom container names instead of `PwnFox-color`
-- [Java-Deserialization-Scanner Fork](https://github.com/trybadisch/Java-Deserialization-Scanner) <img alt="Burp" src="https://upload.wikimedia.org/wikipedia/commons/6/61/BurpSuite_logo.svg" height="15"> : Reduce false positive detection rate and improve highlighting
+### Fixed Forks:
+- [PwnFox](https://github.com/trybadisch/PwnFox) <img alt="Firefox" src="https://upload.wikimedia.org/wikipedia/commons/a/a0/Firefox_logo%2C_2019.svg" height="15"> : Enable custom container names instead of `PwnFox-color`
+- [Java-Deserialization-Scanner](https://github.com/trybadisch/Java-Deserialization-Scanner) <img alt="Burp" src="https://upload.wikimedia.org/wikipedia/commons/6/61/BurpSuite_logo.svg" height="15"> : Reduce false positive detection rate and improve highlighting
