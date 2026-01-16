@@ -29,6 +29,7 @@
 #### HackerOne
 - [WebM-Remuxer](https://github.com/trybadisch/WebM-Remuxer) <img alt="Firefox" src="https://upload.wikimedia.org/wikipedia/commons/a/a0/Firefox_logo%2C_2019.svg" height="15"> : Extension to recontainerize HackerOne WebM files to restore duration and playback controls
 - [Report-Scraper](https://github.com/trybadisch/Report-Scraper) <img alt="Firefox" src="https://upload.wikimedia.org/wikipedia/commons/a/a0/Firefox_logo%2C_2019.svg" height="15"><img alt="Chrome" src="https://upload.wikimedia.org/wikipedia/commons/e/e1/Google_Chrome_icon_%28February_2022%29.svg" height="15"> : Extension to scrape summaries of HackerOne reports including status, last action, and last message
+- [Report-SLA](https://github.com/trybadisch/Report-SLA) <img alt="Chrome" src="https://upload.wikimedia.org/wikipedia/commons/e/e1/Google_Chrome_icon_%28February_2022%29.svg" height="15"> : Extension to scrape actions taken on HackerOne reports within a specified inbox and date range
 
 ### Netsec Parsers:
 - [Cortex-Parser](https://github.com/trybadisch/Cortex-Parser): (Legacy) Post-exploitation tool that gathers Cortex XDR configuration aiming to find potential exclusions
