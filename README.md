@@ -19,9 +19,6 @@
     <img src="https://img.shields.io/badge/Zsh-F15A24?logo=zsh&logoColor=fff" />
   </a>
   <br /><br />
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=trybadisch&layout=compact&theme=dracula&langs_count=6" />
-  </a>
 </p>
 
 ## Projects
